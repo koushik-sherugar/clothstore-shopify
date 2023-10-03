@@ -1,1 +1,0 @@
-# clothstore-shopify data
